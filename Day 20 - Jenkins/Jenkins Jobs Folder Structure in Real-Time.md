@@ -7,16 +7,16 @@
 | **Website**              | https://www.telugudevopsguru.com               |
 | **LinkedIn profile**     | [Moole Muralidhara Reddy](https://www.linkedin.com/in/moole-muralidhara-reddy) |
 
-**✅ Jenkins Jobs Folder Structure in Real-Time**
+## **✅ Jenkins Jobs Folder Structure in Real-Time**
 
 
-## ✅ **Environments**
+### ✅ **Environments**
 
 ```
 DEV, TEST, QA, UAT, PRE-PROD, PROD
 ```
 
-## ✅ **Example Applications**
+### ✅ **Example Applications**
 
 **User-related services**
 
@@ -64,7 +64,7 @@ DEV, TEST, QA, UAT, PRE-PROD, PROD
 * reporting-service
 
 
-## ✅ **Jenkins Jobs Folder Structure (Example)**
+### ✅ **Jenkins Jobs Folder Structure (Example)**
 
 ```
 /
